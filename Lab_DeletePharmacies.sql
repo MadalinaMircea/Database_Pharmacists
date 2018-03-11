@@ -1,0 +1,5 @@
+CREATE PROCEDURE DeletePharmacies
+AS
+BEGIN
+	DELETE FROM Pharmacies
+END
